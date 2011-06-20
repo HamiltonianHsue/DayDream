@@ -1,5 +1,5 @@
 abcdefg
 acc
-LINE 3
-LINE 4
+line 3 = LINE 3
+line 4 = LINE 4
 LINE 5
