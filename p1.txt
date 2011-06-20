@@ -1,4 +1,5 @@
 abcdefg
 acc
-line 3
-lnee 4 # add comment
+line 3 = LINE 3
+line 4 = LINE 4
+LINE 5
